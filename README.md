@@ -1,5 +1,15 @@
+## Getting started
+npm install
+npm start
 
-## serve -s build
+## Production
+Note that the development build is not optimized.
+To create a production build, use yarn build.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  serve -s build
 
 View project: http://cogs-n-sprockets.surge.sh
 
