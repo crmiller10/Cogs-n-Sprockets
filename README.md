@@ -11,7 +11,7 @@ You may serve it with a static server:
 
   serve -s build
 
-View project: http://cogs-n-sprockets.surge.sh
+View project:
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
